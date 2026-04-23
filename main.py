@@ -13,7 +13,7 @@ while True:
     if choice == "1":
         create_car(cars)
     elif choice == "2":
-        break
+        read_cars(cars)
     elif choice == "3":
         break
     elif choice == "4":
