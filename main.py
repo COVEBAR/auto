@@ -17,7 +17,7 @@ while True:
     elif choice == "3":
         update_car(cars)
     elif choice == "4":
-        break
+        delete_car(cars)
     elif choice == "5":
         print("\nПрограмма завершена.")
         break
