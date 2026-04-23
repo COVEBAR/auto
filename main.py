@@ -15,7 +15,7 @@ while True:
     elif choice == "2":
         read_cars(cars)
     elif choice == "3":
-        break
+        update_car(cars)
     elif choice == "4":
         break
     elif choice == "5":
